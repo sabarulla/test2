@@ -2,9 +2,7 @@
 //  TestTests.swift
 //  TestTests
 //
-//  Created by sabarulla on 12/02/18.
-//  Copyright © 2018 sabarulla. All rights reserved.
-//
+
 
 import XCTest
 @testable import Test
